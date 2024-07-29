@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+main {
+    padding: 2em;
+    text-align: center;
+}
+
+.category {
+    margin: 2em 0;
+}
+
+.category a {
+    text-decoration: none;
+    color: #333;
+    font-size: 1.5em;
+}
+
+.category a:hover {
+    color: #555;
+}
+
+section {
+    margin-bottom: 2em;
+}
+
+.checklist {
+    list-style: none;
+    padding: 0;
+}
+
+.checklist li {
+    margin-bottom: 0.5em;
+    text-align: left;
+}
+
+footer {
+    text-align: center;
+    padding: 1em 0;
+    background-color: #333;
+    color: white;
+}
